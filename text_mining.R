@@ -3,8 +3,6 @@
 #           Here, the input will be path to the newsgroups and it will output the accuracies from two
 #           classifiers Knn and Naive Bayes.  
 # Authors : Chaitali Kamble
-#         : Siddharth Bidwalkar
-#         : Rudresh Pandit
 #Date     : 11/17/2016
 # Version : 1.0
 
